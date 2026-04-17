@@ -5,3 +5,6 @@
 [submodule "dsge"]
 	path = dsge
 	url = https://github.com/cran/dsge
+[submodule "spmixW"]
+	path = spmixW
+	url = https://github.com/cran/spmixW
